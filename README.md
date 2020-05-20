@@ -10,4 +10,4 @@ install node package manager
 `npm install`
 
 ## Summary
-javascript unit testing with travelling example theme, enumerators focus
+javascript unit testing with travelling theme, enumerators focus
